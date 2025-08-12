@@ -35,7 +35,6 @@ cd Fod-
 Run the website
 
 Simply open index.html in your browser.
-📷 Screenshot
 
 
 📜 License
